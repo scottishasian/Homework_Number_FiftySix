@@ -13,4 +13,6 @@ img {
 
 ul {
   margin: auto;
+  padding: 20px;
+  border-style: solid;
 }
